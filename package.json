@@ -1,0 +1,23 @@
+{
+  "name": "reactstrap",
+  "version": "1.0.0",
+  "description": "React + Reactstrap + Redux(In Progress)",
+  "keywords": ["reactjs", "reactstrap"],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.1.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "reactstrap": "5.0.0",
+    "redux": "4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
